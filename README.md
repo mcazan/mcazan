@@ -1,10 +1,17 @@
 Hi there 👋
 
 📫 How to reach me: [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+---
+![icons8-email-50](https://github.com/mcazan/mcazan/assets/135700965/07dfb8c6-20c3-4b74-9e9d-9ef41655f089)[1]
+---
+![icons8-linkedin-48](https://github.com/mcazan/mcazan/assets/135700965/e413892b-31dc-4701-b540-7d6036365325)[2]
+---
+![icons8-tableau-software-48](https://github.com/mcazan/mcazan/assets/135700965/d4be1997-a6e0-43e6-a98a-6fb6ad261c0e)[3]
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+[1]: mailto:mihaelakzan@gmail.com
+[2]: https://www.linkedin.com/in/mcazan/
+[3]: https://public.tableau.com/app/profile/mcazan/vizzes
 
-[1]: https://www.linkedin.com/in/mcazan/
 <!--
 **mcazan/mcazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
