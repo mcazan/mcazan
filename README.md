@@ -4,11 +4,7 @@ Hi there!
 
 📫 How to reach me: 
 ---
-[![icons8-email-50](https://github.com/mcazan/mcazan/assets/135700965/07dfb8c6-20c3-4b74-9e9d-9ef41655f089)][1]
-
-[![icons8-linkedin-48](https://github.com/mcazan/mcazan/assets/135700965/e413892b-31dc-4701-b540-7d6036365325)][2]
-
-[![icons8-tableau-software-48](https://github.com/mcazan/mcazan/assets/135700965/d4be1997-a6e0-43e6-a98a-6fb6ad261c0e)][3]
+[![icons8-email-50](https://github.com/mcazan/mcazan/assets/135700965/07dfb8c6-20c3-4b74-9e9d-9ef41655f089)][1] | [![icons8-linkedin-48](https://github.com/mcazan/mcazan/assets/135700965/e413892b-31dc-4701-b540-7d6036365325)][2] | [![icons8-tableau-software-48](https://github.com/mcazan/mcazan/assets/135700965/d4be1997-a6e0-43e6-a98a-6fb6ad261c0e)][3]
 
 [1]: mailto:mihaelakzan@gmail.com
 [2]: https://www.linkedin.com/in/mcazan/
