@@ -1,8 +1,6 @@
 Hi there!
 <br>
 <b>I'm Mihaela Cazan</b>
-
-<b>About me</b>
 <br><br>
 Curios about how data can shape businesses, I made the leap to train as a data analyst. Weaving my skills in data analysis with business knowledge and an analytical mind set, I bring a different perspective to this role and a genuine interest in discovering more about this field.
 
