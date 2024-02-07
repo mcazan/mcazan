@@ -14,6 +14,7 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 [2]: https://www.linkedin.com/in/mcazan/
 [3]: https://public.tableau.com/app/profile/mcazan/vizzes
 
+
 <b>Latest projects:</b>
 
 <table>
@@ -23,13 +24,12 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 			<th align="center"> What I did </th>
 			<th align="center"> Tools I used </th>
 		</tr>
-
-    <tr>
+   		 <tr>
 			<td align="left">
 				<a href="https://github.com/mcazan/Pandas-Version-How-accessible-is-the-job-market-for-Junior-Data-Analysts">How accessible is the job market for Junior Data Analysts Pandas Version</a>
 			</td>
 			<td align="left">
-        		<li>Work in progress - Used Pandas and Matplotlib to recreate a project previously made in Python.</li>
+        			<li>Work in progress - Used Pandas and Matplotlib to recreate a project previously made in Python.</li>
 			</td>
 			<td align="left">Used Python, Pandas, Matplotlib and Jupyter Notebook.</td>
 		</tr>
@@ -39,14 +39,15 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 			</td>
 			<td align="left">
         			<li>Part of freeCodeCamp certification for Relational database.</li>
-       			<li> Created a number guessing game that runs in the terminal and saves user information.</li>
+       				<li> Created a number guessing game that runs in the terminal and saves user information.</li>
      			 </td>
 			<td align="left">Used Bash scripting, PostgreSQL and Git.</td>
 		 </tr>
-   	 <tr>
+   	 	 <tr>
 			<td align="left">
 				<a href="https://github.com/mcazan/Students-database">Student database</a></td>
-	 	        <td align="left"><li>Created a Bash script that uses SQL to enter information about computer science students into PostgreSQL. </li></td>
+	 	        <td align="left">
+				<li>Created a Bash script that uses SQL to enter information about computer science students into PostgreSQL. </li></td>
 			<td align="left">Bash, SQL/td>
 		</tr>
 		<tr>
@@ -57,7 +58,5 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 		</tr>
 	</tbody>
  </table>
-
-</table>
 <!--
 **mcazan/mcazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
