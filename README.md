@@ -46,7 +46,7 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 				<a href="https://github.com/mcazan/Students-database">Student database</a></td>
 	 	        <td align="left">
 				<li>Created a Bash script that uses SQL to enter information about computer science students into PostgreSQL. </li></td>
-			<td align="left">Bash, SQL/td>
+			<td align="left">Bash, SQL</td>
 		</tr>
 		<tr>
 			<td align="left">
