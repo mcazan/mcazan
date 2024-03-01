@@ -22,9 +22,18 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 			<th align="center"> What I did </th>
 			<th align="center"> Tools I used </th>
 		</tr>
+		 <tr>
+			<td align="left">
+				<a href="https://github.com/mcazan/8-week-SQL-challenge"> 8 week SQL challenge </a>
+			</td>
+			<td align="left">
+        			<li> Work in progress - SQL challenge featuring multiple realistic end to end case studies covering domains like health, marketing, financial markets, fast moving consumer goods and people analytics. Link to the <a href="https://github.com/mcazan/8-week-SQL-challenge"> challenge </a>. </li>
+			</td>
+			<td align="left">SQL.</td>
+		</tr>
    		 <tr>
 			<td align="left">
-				<a href="https://github.com/mcazan/Pandas-Version-How-accessible-is-the-job-market-for-Junior-Data-Analysts">How accessible is the job market for Junior Data Analysts Pandas Version</a>
+				<a href="https://github.com/mcazan/Pandas-Version-How-accessible-is-the-job-market-for-Junior-Data-Analysts"> How accessible is the job market for Junior Data Analysts Pandas Version </a>
 			</td>
 			<td align="left">
         			<li>Work in progress - Used Pandas and Matplotlib to recreate a project previously made in Python.</li>
