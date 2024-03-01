@@ -27,7 +27,7 @@ Curios about how data can shape businesses, I made the leap to train as a data a
 				<a href="https://github.com/mcazan/8-week-SQL-challenge"> 8 week SQL challenge </a>
 			</td>
 			<td align="left">
-        			<li> Work in progress - SQL challenge featuring multiple realistic end to end case studies covering domains like health, marketing, financial markets, fast moving consumer goods and people analytics. Link to the <a href="https://github.com/mcazan/8-week-SQL-challenge"> challenge </a>. </li>
+        			<li> Work in progress - SQL challenge featuring multiple realistic end to end case studies covering domains like health, marketing, financial markets, fast moving consumer goods and people analytics. Link to the <a href="https://8weeksqlchallenge.com/getting-started/"> challenge </a>. </li>
 			</td>
 			<td align="left">SQL.</td>
 		</tr>
